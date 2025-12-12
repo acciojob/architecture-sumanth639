@@ -1,1 +1,46 @@
 /*  your css code here. If applicable */
+body {
+    background: #cbd6cb;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+
+.container {
+    width: 1100px;
+}
+
+.imageContainer img {
+    width: 600px;
+    height: 300px;
+    display: block;
+    margin: 0 auto;
+}
+
+table {
+    width: 100%;
+    margin-top: 20px;
+  
+    
+}
+
+td {
+    vertical-align: top;
+    padding: 10px;
+}
+
+td img {
+    width: 200px;
+    height: auto;
+    border-radius: 4px;
+}
+
+.middleText {
+    text-align: center;
+}
+
+.middleText p {
+    line-height: 1.5;
+}
+
